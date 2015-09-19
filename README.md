@@ -2,3 +2,4 @@
 # add lines
 	- feature-A
 	 fix-B
+	- feature-C
